@@ -8,3 +8,5 @@
 
 #### - 오픈소스
   - OpenCv활용
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kevinstysty)](https://solved.ac/kevinstysty)
